@@ -1,5 +1,5 @@
 /// <reference types = "Cypress" />
-// End 2 End Paymane scenario
+// End 2 End Payment scenario
 describe('New Payee Test', () => {
     before(function () {
         cy.visit('http://zero.webappsecurity.com/index.html')
